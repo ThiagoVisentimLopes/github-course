@@ -210,7 +210,7 @@ public class CadastroUsuario extends javax.swing.JFrame {
     private void BotaoCadastrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BotaoCadastrarActionPerformed
         String nome = cadastroUsuario.getText();
         String senha = cadastroSenha.getText();
-        String senhaTeste = cadastroSenha.getText();
+      ///  String senhaTeste = cadastroSenha.getText();
         String permissao = ComboBoxPrioridadeCadastro.getSelectedItem().toString();
         senhaTeste = "oi";
         try {
