@@ -82,6 +82,7 @@ public class Funcionarios extends javax.swing.JFrame {
        // jTextField1.setText("");
         jTextField2.setText("");
         //jTextField3.setText("");
+        //TESTANDOOOOO
         //jComboBox1.setSelectedItem("");
 
     }
